@@ -1,0 +1,32 @@
+.c-item {
+    height: 850px;
+    width: 850;
+}
+
+.c-img {
+    height: 100%;
+    filter: brightness(0.6);
+}
+
+.c-iimg {
+    height: 850px;
+    width: 850;
+}
+
+.c-immg {
+    height: 100%;
+    filter: brightness(0.6);
+}
+
+.image {
+    height: 850px;
+    width: 850;
+}
+
+
+
+.c-image {
+
+    height: 100%;
+    filter: brightness(0.6);
+}
